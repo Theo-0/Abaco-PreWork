@@ -1,6 +1,0 @@
-dog
-pig
-cat
-rat
-fox
-cow
